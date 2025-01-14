@@ -14,10 +14,6 @@
 
 ## About Me
 
-I teach statistics and psychology at both Diablo Valley College (as a professor with my own office and health insurance and tenure) and UC Berkeley (as a continuing lecturer who is not required to attend meetings or serve on committees).
-
-## Contact
-
--   Wave hi if you see me on campus
--   Talk to me after class
--   E-mail me using the address in our course syllabus.
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------+
+| I teach statistics and psychology at Diablo Valley College (as a professor with my own office and health insurance and tenure) and UC Berkeley (as a continuing lecturer who is not required to attend meetings or serve on committees). | ![](images/IMG_9433.jpg){width="123"} |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------------------------+
